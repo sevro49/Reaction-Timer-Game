@@ -1,4 +1,5 @@
 # reaction-timer-game
+Live Preview: https://sevro49-reaction-timer-game.netlify.app
 
 ## Project setup
 ```
